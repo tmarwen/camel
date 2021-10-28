@@ -34,7 +34,6 @@
 
     <properties>
         <camel.surefire.forkTimeout>3000</camel.surefire.forkTimeout>
-        <camel.surefire.parallel.strategy>custom</camel.surefire.parallel.strategy>
     </properties>
 
     <dependencies>
